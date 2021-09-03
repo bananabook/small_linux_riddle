@@ -1,0 +1,10 @@
+This hint is for you in case you do not know how to call a script, there are different ways:
+
+Source:
+You can call a script by opening a terminal and calling "source riddle.sh"
+
+.:
+Instead of source you can also use ".". This would look like this: ". riddle.sh"
+
+chmod:
+You can also execute the script directly by making it executable and then executing it: "chmod +x riddle.sh;./riddle.sh"
