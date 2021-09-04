@@ -1,2 +1,2 @@
 This hint is for you if you do not know what an argument to a script is:
-arguments can be given as commandline arguments. This can be done adding them with spaces to the script call: "./riddle argument1 argument2" You can choose anything as argument1 and argument2.
+Arguments can be given as commandline arguments. This can be done adding them with spaces to the script call: "./riddle argument1 argument2" You can choose anything as argument1 and argument2. A script can take any number of arguments.

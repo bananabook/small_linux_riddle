@@ -1,0 +1,1 @@
+If you know how to call scripts and pass arguments, but still can't figure out the solution to the riddle, now may be a good time to read the script "riddle.sh".
